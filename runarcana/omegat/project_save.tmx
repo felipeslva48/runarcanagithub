@@ -4,6 +4,34 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="PT-BR"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="PT-BR">
+        <seg>&lt;languages/&gt;
+&lt;translate&gt;
+&lt;!--T:49--&gt;
+&lt;div id="mp-topbanner" class="mp-bordered"&gt;
+&lt;div id="mp-welcomecount"&gt;
+&lt;div id="mp-welcome"&gt;Bem-Vindo à [[Special:MyLanguage/Página_principal|Runarcana Wiki]],&lt;/div&gt;
+&lt;div id="mp-free"&gt;a Wiki para o sistema Runarcana RPG.&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul id="mp-portals"&gt;
+&lt;li&gt;[[Special:MyLanguage/Origens|Origens]]&lt;/li&gt;
+&lt;li class="portal-vmid"&gt;[[Special:MyLanguage/Classe|Classes]]&lt;/li&gt;
+&lt;li class="portal-vbot"&gt;[[Special:MyLanguage/Detalhamento|Detalhamento]]&lt;/li&gt;
+&lt;li class="portal-hmid"&gt;[[Special:MyLanguage/Personalização|Personalização]]&lt;/li&gt;
+&lt;li class="portal-hmid portal-vmid"&gt;[[Special:MyLanguage/Equipamento|Equipamento]]&lt;/li&gt;
+&lt;li class="portal-hmid portal-vbot"&gt;[[Special:MyLanguage/Regras|Regras]]&lt;/li&gt;
+&lt;li class="portal-hright"&gt;[[Special:MyLanguage/Cenário|Cenário]]&lt;/li&gt;
+&lt;li class="portal-hright portal-vmid"&gt;[[Special:MyLanguage/Condições|Condições]]&lt;/li&gt;
+&lt;li class="portal-hright portal-vbot"&gt;[[Special:MyLanguage/Monstros e Criaturas|Criaturas]]&lt;/li&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="GIGA" changedate="20211213T141357Z" creationid="GIGA" creationdate="20211213T141357Z">
+        <seg>qweqewqeq
+&lt;li&gt;[[Special:MyLanguage/Origens|Origens]]&lt;/li&gt;
+&lt;li ceqwe portal-vmid"&gt;[[Special:MyLanguage/Condições|Condições]]&lt;/li&gt;
+&lt;li class="portal-hright portal-vbot"&gt;[[Special:MyLanguage/Monstros e Criaturas|Criaturas]]&lt;/li&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

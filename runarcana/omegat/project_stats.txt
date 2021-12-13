@@ -1,13 +1,14 @@
-13/12/21 11:53
+13/12/21 12:14
 Estatística do Projeto
 
                            	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (incluindo espaços)	#Arquivos	
-Total de palavras:         	        0	       0	                       0	                             0	        0	
-Restantes:                 	        0	       0	                       0	                             0	        0	
-Únicos:                    	        0	       0	                       0	                             0	        0	
-Segmentos únicos restantes:	        0	       0	                       0	                             0	        0	
+Total de palavras:         	       60	     991	                    8297	                          8620	        1	
+Restantes:                 	       59	     877	                    7341	                          7635	        1	
+Únicos:                    	       58	     989	                    8289	                          8612	        1	
+Segmentos únicos restantes:	       57	     875	                    7333	                          7627	        1	
 
 
 Estatísticas do arquivo individual:
 
-Nome do arquivo	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (incluindo espaços)	Caracteres únicos (incluindo espaços)	Caracteres únicos restantes (incluindo espaços)	
+Nome do arquivo           	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (incluindo espaços)	Caracteres únicos (incluindo espaços)	Caracteres únicos restantes (incluindo espaços)	
+P%C3%A1gina_principal.UTF8	                 60	                 59	              58	                        57	              991	                877	            989	                      875	                             8297	                              7341	                           8289	                                     7333	                                   8620	                                    7635	                                 8612	                                           7627	

@@ -1,0 +1,237 @@
+<languages/>
+<translate>
+<!--T:49-->
+<div id="mp-topbanner" class="mp-bordered">
+<div id="mp-welcomecount">
+<div id="mp-welcome">Bem-Vindo à [[Special:MyLanguage/Página_principal|Runarcana Wiki]],</div>
+<div id="mp-free">a Wiki para o sistema Runarcana RPG.</div>
+</div>
+<ul id="mp-portals">
+<li>[[Special:MyLanguage/Origens|Origens]]</li>
+<li class="portal-vmid">[[Special:MyLanguage/Classe|Classes]]</li>
+<li class="portal-vbot">[[Special:MyLanguage/Detalhamento|Detalhamento]]</li>
+<li class="portal-hmid">[[Special:MyLanguage/Personalização|Personalização]]</li>
+<li class="portal-hmid portal-vmid">[[Special:MyLanguage/Equipamento|Equipamento]]</li>
+<li class="portal-hmid portal-vbot">[[Special:MyLanguage/Regras|Regras]]</li>
+<li class="portal-hright">[[Special:MyLanguage/Cenário|Cenário]]</li>
+<li class="portal-hright portal-vmid">[[Special:MyLanguage/Condições|Condições]]</li>
+<li class="portal-hright portal-vbot">[[Special:MyLanguage/Monstros e Criaturas|Criaturas]]</li>
+
+<!--T:50-->
+</ul>
+</div>
+<div id="mp-banner" class="MainPageBG mp-bordered" style="float: center; text-align: center">
+A Wiki está em conformidade com a '''versão 0.92d''' do [https://runarcana.org Runarcana RPG]
+
+<!--T:51-->
+</div>
+<blockquote>
+Sejam bem vindos ao Runarcana 0.92d!
+
+<!--T:52-->
+Esta wiki é apresentação oficial dessa versão do Runarcana RPG.
+
+<!--T:53-->
+Lançamos essa ferramenta para facilitar ainda mais a vida dos mestres e jogadores do Runarcana RPG, essa wiki será atualizada frequentemente para refletir o conteúdo mais atualizado e já corrigido.
+
+<!--T:55-->
+<div style="float: right; text-align: right">
+- Arddhu
+
+<!--T:56-->
+9 de dezembro de 2021
+</div>
+</blockquote>
+
+
+
+=Notas de Atualização= <!--T:57-->
+*[[Special:MyLanguage/Notas_de_Atualização_0.92d|Notas de Atualização 0.92d]]
+*[[Special:MyLanguage/Notas_de_Atualização_0.92c|Notas de Atualização 0.92c]]
+*[[Special:MyLanguage/Notas_de_Atualização_0.92b|Notas de Atualização 0.92b]]
+*[[Special:MyLanguage/Notas_de_Atualização#0.92|Notas de Atualização 0.92]]
+
+=Runarcana: Projetos= <!--T:38-->
+Abaixo está a lista de projetos associados ao Runarcana RPG:
+*[[Special:MyLanguage/Runarcana: Drive|Runarcana: Drive]]
+*[[Special:MyLanguage/Runarcana: Folio|Runarcana: Folio]]
+*[[Special:MyLanguage/Runarcana: Santangelo|Runarcana: Santangelo]]
+
+=Runarcana RPG: Conteúdo= <!--T:58-->
+{| style="width: 100%; "
+| style="width: 20%;vertical-align:top;"|
+[[Special:MyLanguage/Introdução|Introdução]]
+====Parte 1: Personagens==== 
+
+<!--T:59-->
+Cap.1: [[Special:MyLanguage/Criação de personagem|Criação de personagem]]
+
+<!--T:60-->
+Cap. 2: [[Special:MyLanguage/Origens|Origens]]	
+
+<!--T:61-->
+*[[Special:MyLanguage/Humano|Humano]]
+*[[Special:MyLanguage/Antroplantae|Antroplantae]]
+*[[Special:MyLanguage/Construto|Construto]]
+*[[Special:MyLanguage/Meio-Dragão|Meio-Dragão]]
+*[[Special:MyLanguage/Minotauro|Minotauro]]
+*[[Special:MyLanguage/Troll|Troll]]
+*[[Special:MyLanguage/Vastaya|Vastaya]]
+*[[Special:MyLanguage/Yordle|Yordle]]
+*[[Special:MyLanguage/Runinata|Runinata]]
+
+<!--T:62-->
+Cap. 3: [[Special:MyLanguage/Classe|Classes]]	
+
+<!--T:63-->
+*[[Special:MyLanguage/Acólito|Acólito]]
+*[[Special:MyLanguage/Arcano|Arcano]]
+*[[Special:MyLanguage/Atirador|Atirador]]
+*[[Special:MyLanguage/Bodisatva|Bodisatva]]
+*[[Special:MyLanguage/Bruto|Bruto]]
+*[[Special:MyLanguage/Caçador|Caçador]]
+*[[Special:MyLanguage/Combatente|Combatente]]
+*[[Special:MyLanguage/Mercurial|Mercurial]]
+*[[Special:MyLanguage/Ninja|Ninja]]
+*[[Special:MyLanguage/Peregrino|Peregrino]]
+*[[Special:MyLanguage/Tecmaturgo|Tecmaturgo]]
+
+| style="width: 20%;vertical-align:top;"|
+<!--T:64-->
+Cap. 4: [[Special:MyLanguage/Detalhamento|Detalhamento]]
+
+<!--T:65-->
+*[[Special:MyLanguage/Detalhes do Personagem|Detalhes do Personagem]]
+*[[Special:MyLanguage/Idiomas|Idiomas]]
+*[[Special:MyLanguage/Inspiração|Inspiração]]
+*[[Special:MyLanguage/Passados|Passados]]
+*[[Special:MyLanguage/Ofícios|Ofícios]]
+*[[Special:MyLanguage/Construindo Sua Vida|Construindo Sua Vida]]
+
+<!--T:66-->
+Cap. 5: [[Special:MyLanguage/Personalização|Personalização]]
+
+<!--T:67-->
+*[[Special:MyLanguage/Heranças|Heranças]]
+*[[Special:MyLanguage/Heranças Variantes|Heranças Variantes]]
+*[[Special:MyLanguage/Aprimoramento|Aprimoramento]]
+*[[Special:MyLanguage/Runas|Runas]]
+*[[Special:MyLanguage/Runessências|Runessências]]
+*[[Special:MyLanguage/Sutras e Vel|Sutras e Vel]]
+*[[Special:MyLanguage/Multiclasse|Multiclasse]]
+
+Cap. 6: [[Special:MyLanguage/Equipamento|Equipamento]]
+
+<!--T:86-->
+*[[Special:MyLanguage/Equipamento e Riqueza|Equipamento e Riqueza]]
+*[[Special:MyLanguage/Armaduras e Escudos|Armaduras e Escudos]]
+*[[Special:MyLanguage/Armas|Armas]]
+*[[Special:MyLanguage/Equipamento de Aventureiro|Equipamento de Aventureiro]]
+*[[Special:MyLanguage/Montarias e Estilo de Vida|Montarias e Estilo de Vida]]
+*[[Special:MyLanguage/Inventos do Tecmaturgo|Inventos do Tecmaturgo]]
+
+
+| style="width: 20%;vertical-align:top;"|
+====Parte 2: [[Special:MyLanguage/Regras|Regras]]==== <!--T:22-->
+
+<!--T:70-->
+Cap. 7: [[Special:MyLanguage/Utilizando Atributos|Utilizando Atributos]]
+
+<!--T:71-->
+Cap. 8: [[Special:MyLanguage/Aventurando-se|Aventurando-se]]
+ 
+Cap. 9: [[Special:MyLanguage/Combate|Combate]]
+
+<!--T:72-->
+Cap. 10: [[Special:MyLanguage/Magia|Magia]]
+*[[Special:MyLanguage/Os Mistérios de Magia|Os Mistérios de Magia]]
+*[[Special:MyLanguage/Listas de Magias|Listas de Magias]]
+
+====Parte 3: Runeterra==== <!--T:73-->
+Cap. 11: [[Special:MyLanguage/Cenário|Cenário]]
+
+<!--T:74-->
+*[[Special:MyLanguage/O Mundo de Runeterra|O Mundo de Runeterra]]
+*[[Special:MyLanguage/Águas de Sentina|Águas de Sentina]]
+*[[Special:MyLanguage/Bandópolis|Bandópolis]]
+*[[Special:MyLanguage/Demacia|Demacia]]
+*[[Special:MyLanguage/Freljord|Freljord]]
+*[[Special:MyLanguage/Ilha das Sombras|Ilha das Sombras]]
+*[[Special:MyLanguage/Ionia|Ionia]]
+*[[Special:MyLanguage/Ixtal|Ixtal]]
+*[[Special:MyLanguage/Noxus|Noxus]]
+*[[Special:MyLanguage/Piltover|Piltover]]
+*[[Special:MyLanguage/Shurima|Shurima]]
+*[[Special:MyLanguage/Targon|Targon]]
+*[[Special:MyLanguage/Vazio|Vazio]]
+*[[Special:MyLanguage/Zaun|Zaun]]
+
+| style="width: 20%;vertical-align:top;"|
+
+Cap. 12: Ambientes de Aventura
+
+<!--T:75-->
+*[[Special:MyLanguage/Ambientes|Ambientes]]
+*[[Special:MyLanguage/Reinos de Existência|Reinos de Existência]]
+
+====Parte 4: Mestrando==== <!--T:77-->
+Cap. 13: Conduzindo o Jogo
+*[[Special:MyLanguage/Objetos|Objetos]]
+*[[Special:MyLanguage/Armadilhas|Armadilhas]]
+*[[Special:MyLanguage/Doenças|Doenças]]
+*[[Special:MyLanguage/Venenos|Venenos]]
+*[[Special:MyLanguage/Loucura|Loucura]]
+
+<!--T:78-->
+Cap. 14: [[Special:MyLanguage/Recompensas|Recompensas]]
+*[[Special:MyLanguage/Tipos de Recompensas|Tipos de Recompensas]]
+*[[Special:MyLanguage/Itens Mágicos|Itens Mágicos]]
+*[[Special:MyLanguage/Itens Mágicos Inteligentes|Itens Mágicos Inteligentes]]
+*[[Special:MyLanguage/Armas Darkin|Armas Darkin]]
+*[[Special:MyLanguage/Artefatos|Artefatos]]
+*[[Special:MyLanguage/Membros Prostéticos|Membros Prostéticos]]
+*[[Special:MyLanguage/Materiais Raros|Materiais Raros]]
+
+<!--T:79-->
+Apêndice A: [[Special:MyLanguage/Condições|Condições]]
+
+<!--T:80-->
+Apêndice B: [[Special:MyLanguage/Monstros e Criaturas|Monstros e Criaturas]]
+
+<!--T:81-->
+|}
+
+=Runarcana += <!--T:39-->
+
+==[[Special:MyLanguage/Repositório Magitek|Repositório Magitek]]==
+*[[special:MyLanguage/RM018 - Catálogo Barukh 01|#018 - Catálogo Barukh 01]]
+*[[special:MyLanguage/RM019 - Um Grão de Areia|#019 - Um Grão de Areia]]
+*[[special:MyLanguage/RM020 - Catálogo de Barukh 08|#020 - Catálogo de Barukh 08]]
+
+==[[Special:MyLanguage/Jardim_das_Sombras|Jardim das Sombras]]== <!--T:82-->
+{|class="article-table"
+|
+Cap. 1: [[Special:MyLanguage/Jardim_das_Sombras|Jardim das Sombras]]
+
+<!--T:83-->
+Cap. 2: [[Special:MyLanguage/Categoria:Criaturas|Criaturas]]
+*[[Special:MyLanguage/Argoi|Argoi]]
+*[[Special:MyLanguage/Carrascos|Carrascos]]
+*[[Special:MyLanguage/Estigiano|Estigiano]]
+*[[Special:MyLanguage/Megaira|Megaira]]
+*[[Special:MyLanguage/Nyxis|Nyxis]]
+
+<!--T:84-->
+Cap. 3: [[Special:MyLanguage/Materiais_Raros|Material Raro]]
+*[[Special:MyLanguage/Materiais_Raros#Trama_Sombria|Trama Sombria]]
+
+<!--T:85-->
+Cap. 4: [[Special:MyLanguage/Monstros_e_Criaturas#Runas_para_Criaturas|Runas para Criaturas]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Esquiva_Sombrenatural|Esquiva Sombrenatural]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Rejunte_Sombrio|Rejunte Sombrio]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Beleza_Mortal|Beleza Mortal]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Fome_Insaciável|Fome Insaciável]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Sussurro_Maligno|Sussurro Maligno]]
+*[[Special:MyLanguage/Monstros_e_Criaturas#Chamado_da_Sombra|Chamado da Sombra]]
+
+</translate>
